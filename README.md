@@ -1,2 +1,2 @@
-# Form-Validation-JavaScript
+# Basic JavaScript Form Validation
  
